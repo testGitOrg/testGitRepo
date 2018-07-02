@@ -1,1 +1,2 @@
 # testGitRepo
+edits to readme
